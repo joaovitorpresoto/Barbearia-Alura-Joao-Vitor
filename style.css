@@ -1,4 +1,12 @@
-body{font-size: 20px;
-text-align: center;
-background-color: gray;}
+body{
+    
+      font-size: 20px;}
+
 .destaque{color: red;}
+
+.principal {background-color: gray;
+    text-align: center;}
+
+    .subtitulo{text-align: center;}
+
+.imagem{width: 100%;}
