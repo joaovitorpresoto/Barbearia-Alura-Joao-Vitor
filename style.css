@@ -9,4 +9,9 @@ body{
 
     .subtitulo{text-align: center;}
 
+.lista{display: inline-block;
+vertical-align: top;}
+
 .imagem{width: 100%;}
+
+.imagem.beneficios{width: 50%;}
